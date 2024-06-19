@@ -1,4 +1,4 @@
 # first-demo
 This is my first repository.
 <br>
-Author : Akshali Tejani
+Author : Akshali A Tejani
